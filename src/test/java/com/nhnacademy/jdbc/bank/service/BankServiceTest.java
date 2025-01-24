@@ -19,7 +19,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.ArgumentMatchers.anyLong;
 
-@Slf4j
 @TestMethodOrder(value = MethodOrderer.OrderAnnotation.class)
 @ExtendWith(MockitoExtension.class)
 class BankServiceTest {
