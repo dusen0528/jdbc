@@ -1,0 +1,11 @@
+= JDBC - 실습
+
+* JDBC 실습 예제 입니다.
+
+== 환경
+* java - 21
+* mysql
+* maven
+
+== 주의사항
+* 'DbUtils.java' 에 설정하여 사용하는 MySQL 계정은 개인별로 부여한 계정을 사용합니다.
